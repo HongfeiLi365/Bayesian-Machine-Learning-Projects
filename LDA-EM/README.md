@@ -2,4 +2,4 @@
 
 This is a course project I did for Bayesian Machine Learning in 2018 spring at UIUC.
 
-I implemented LDA with EM algorithm for document classification in Python.
+I implemented LDA with EM algorithm for topic modeling and document classification in Python.
